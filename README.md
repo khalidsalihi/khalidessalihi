@@ -11,7 +11,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=500&color=58A6FF&center=true&vCenter=true&width=700&lines=Hello+World!+👋;I'm+Khalid+Essalihi;Full-Stack+Developer;Creative+Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=500&color=F0883E&center=true&vCenter=true&width=700&lines=Building+amazing+web+experiences;Always+learning+new+technologies;Passionate+about+coding;Let's+collaborate+and+create+awesome+things!+" alt="Typing SVG 2" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=500&color=F0883E&center=true&vCenter=true&width=700&lines=Building+amazing+web+experiences;Always+learning+new+technologies;Passionate+about+coding;Let's+collaborate+and+create+awesome+things!" alt="Typing SVG 2" />
 </p>
 
 <!-- Badges Row -->
@@ -26,14 +29,14 @@
 <br/>
 
 <!-- About Me Section -->
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="35"></picture> **About Me**
+## 💻 **About Me**
 
 ```javascript
 const khalid = {
   title: "Professional Full-Stack Developer",
   location: "🌍 Casablanca, Morocco",
   experience: "2+ years of coding",
-  codingSince: "2019",
+  codingSince: "2024",
   passions: ["Web Development", "UI/UX Design", "Problem Solving", "Open Source"],
   specialties: ["Frontend Development", "Backend Architecture", "Database Design", "API Development"],
   currentlyLearning: ["React Advanced Patterns", "Cloud Computing", "DevOps"],
