@@ -10,7 +10,7 @@
 
 <!-- Glowing Line -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Professional_Developer-100000?style=for-the-badge&logoColor=white&labelColor=0D1117&color=58A6FF"/>
+  <img src="[https://img.shields.io/badge/🚀_Professional_Developer-100000?style=for-the-badge&logoColor=white&labelColor=0D1117&color=58A6FF](https://images-platform.99static.com/ky8wEq_DEdvfN0l2lmUSfuVYL0g=/0x0:2000x2000/500x500/top/smart/99designs-contests-attachments/107/107446/attachment_107446690)"/>
   <img src="https://img.shields.io/badge/📍_Morocco-100000?style=for-the-badge&logoColor=white&labelColor=0D1117&color=F0883E"/>
   <img src="https://img.shields.io/badge/💼_Open_for_Work-100000?style=for-the-badge&logoColor=white&labelColor=0D1117&color=BC8CFF"/>
 </p>
@@ -29,3 +29,5 @@ const khalid = {
   learning: ["Next.js 15", "GraphQL", "Kubernetes", "Rust 🦀"],
   motto: "Write clean code, build amazing things ✨"
 };
+
+
